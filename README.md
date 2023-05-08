@@ -2,7 +2,7 @@
     To upload a CSV file and show the data in it.
 
 ## Hosted URL:
-    https://csv-upload-app.onrender.com
+    https://csvreader-t7jw.onrender.com
 
 ## Features 
 
